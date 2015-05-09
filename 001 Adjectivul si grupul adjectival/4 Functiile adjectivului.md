@@ -60,7 +60,7 @@ Invers, alte adjective nu pot fi decat atribute:
 - Addjectivele care comporta prefixul **a**:
 
 > | **alike** | **afraid** | **asleep** |
-|-|-|-|
+|---|---|---|
 | *asemenea* | *speriat* | *adormit* |
 | **aware** | **ashamed** | **alone** |
 | *sensibil la* | *rusinat* | *singur* |
